@@ -1,0 +1,2 @@
+# Mashqlar
+Githubdagi daslabki kodlarim
